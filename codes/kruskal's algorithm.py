@@ -64,3 +64,9 @@ g.add_edge(4, 3, 3)
 g.add_edge(5, 2, 2)
 g.add_edge(5, 4, 3)
 g.kruskal_algo()
+
+#output is =1 - 2: 2
+           #2 - 5: 2
+           #2 - 3: 3
+           #3 - 4: 3
+           #0 - 1: 4
